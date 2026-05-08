@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project: Parallel Web Crawler
 
 ![UdaciSearch Logo](UdaciSearch.png)
@@ -436,3 +437,6 @@ Make sure you have completed all the rubric items [here](https://review.udacity.
 ## Submit your Project
 
 You can submit your project by uploading a zip file or selecting your GitHub repo on the Udacity website.
+=======
+# parallel-web-crawler
+>>>>>>> 798cddc3e43c3b5fb276e9d9406271eaabf372f3
