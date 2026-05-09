@@ -88,5 +88,6 @@ final class ProfilerImpl implements Profiler {
     state.write(writer);
 
     writer.write(System.lineSeparator());
+    writer.flush();
   }
 }
